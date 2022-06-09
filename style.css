@@ -2,6 +2,7 @@ body{
   overflow-x: hidden;
   font-family: cursive;
   color: #505962;
+  font-family: 'Lato', sans-serif;
 }
 
 .offset:before{
